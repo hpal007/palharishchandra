@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harishchandra Pal
-- 👀 I’m interested in web develpment and scripting 
-- 💞️ I’m looking to collaborate on ... any project related to python, django and react.
+- 👀 I’m interested in scripting automation and data science 
+- 💞️ I’m looking to collaborate on ... any project related to python.
 - 📫 How to reach me ... @harishchandra.pal@outlook.com
 
 <!---
