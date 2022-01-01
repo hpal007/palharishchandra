@@ -1,6 +1,7 @@
+# About me
+
 - 👋 Hi, I’m Harishchandra Pal
-- 👀 I’m interested in scripting automation and data science 
-- 💞️ I’m looking to collaborate on ... any project related to python.
+- 👀 I’m mostly interested python related projects like scripting automation, data science, data engineering..
 - 📫 How to reach me ... @harishchandra.pal@outlook.com
 
 <!---
